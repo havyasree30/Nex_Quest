@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEX QUEST - The Gaming Realm</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/70c682a6d6.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Croissant+One&family=Lilita+One&family=Passion+One&display=swap" rel="stylesheet">
+</head>
+</head>
+<body>
+    <footer>
+        <div class="main">
+            <div class="insta">
+                <a href="https://www.instagram.com/nex.quest/?utm_source=ig_web_button_share_sheet" target="_blank">
+                    <i class="fab fa-instagram fa-2x"></i>
+                </a>
+            </div>
+            <div class="discord">
+                <a href="https://discord.gg/yjsFc4UXbR" target="_blank">
+                    <i class="fab fa-discord fa-2x"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
